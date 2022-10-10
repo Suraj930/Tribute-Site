@@ -1,0 +1,36 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: aliceblue;
+    column-gap: 30px;
+}
+.grid-item{
+    background-color:  rgb(153, 172, 122);
+    border: 2px solid;
+    padding: 30px;
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial 17px;
+    
+}
+.heading{
+    text-align: center;
+    box-shadow: 5px 10px;
+    border:2px solid rgb(85, 85, 116);
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.msd{
+    text-align: center;
+    padding: 10px;
+    font-size:60px;
+
+}
+body{
+    background-color: rgb(153, 172, 122);
+}
+#detail{
+    font-family: Arial 20px;
+    font-size:150%;
+    padding:0px 40px ;
+}
